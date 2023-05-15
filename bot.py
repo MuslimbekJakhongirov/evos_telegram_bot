@@ -990,8 +990,3 @@ Miqdorini tanlang...""", reply_markup=ananaslik_numbers)
 if __name__ == '__main__':
     executor.start_polling(dp, skip_updates=True)
 
-
-
-# https://t.me/evos_user_bot this bot can be used 
-# completed on 11.05.2023  
-
